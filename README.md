@@ -19,6 +19,6 @@
 
 ## Тестирование
 
-Написан producer на Jmeter для эмулирования нагрузки
+Написан producer на Jmeter для эмулирования нагрузки (файлы находятся в resourses)
 
 ![TPS](https://github.com/egorDementev/kafka-project/assets/57751210/190403ec-ea0d-4d78-a92e-b0678e25269b)
