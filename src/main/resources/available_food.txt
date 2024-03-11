@@ -1,0 +1,6 @@
+cola
+pepsi
+chips
+tea
+coffee
+cake
